@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Jaiman</h1>
-<h3 align="center">Currently pursuing B.Tech in Computer Science, A front-end enthusiast and a full-time learner.</h3>
+<h3 align="center">Currently pursuing B.Tech in Computer Science,  a passionate self-taught web developer and a full-time learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimanyash&label=Profile%20views&color=0e75b6&style=flat" alt="jaimanyash" /> </p>
 
