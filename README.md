@@ -42,7 +42,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/jaimanyash/jaimanyash/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -53,7 +52,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/	31f4poibgfhht7mplxfvw2y64voe">
+  <a href="https://open.spotify.com/user/31f4poibgfhht7mplxfvw2y64voe">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
   </a>
 </div>
